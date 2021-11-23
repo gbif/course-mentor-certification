@@ -6,7 +6,8 @@ Author U, Autore D & Auteur T.
 The special guide to something. 
 Third edition. 
 GBIF Secretariat: Copenhagen. 
-https://doi.org/10.35035/doc-xxxx-xxxx.
+// Uncomment once a DOI is assigned.
+//https://doi.org/10.35035/doc-xxxx-xxxx.
 
 === Authors
 
@@ -20,9 +21,10 @@ James Joyce and Samuel Beckett of Trinity College, Dublin, contributed to this v
 
 The document _The special guide to something_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
 
-=== Persistent URI
-
-https://doi.org/10.35035/doc-xxxx-xxxx
+// Uncomment once a DOI is assigned.
+//=== Persistent URI
+//
+//https://doi.org/10.35035/doc-xxxx-xxxx
 
 === Document control
 
