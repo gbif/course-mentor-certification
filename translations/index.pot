@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-11-23 10:28+0000\n"
+"POT-Creation-Date: 2026-04-20 07:39+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -547,14 +547,14 @@ msgid "Suggested citation"
 msgstr ""
 
 #.  Uncomment once a DOI is assigned.
-#. https://doi.org/10.35035/doc-xxxx-xxxx.
 #. type: Plain text
-#: colophon.en.adoc:11
+#: colophon.en.adoc:9
 msgid ""
 "Author U, Autore D & Auteur T.  The special guide to something.  Third "
 "edition.  GBIF Secretariat: Copenhagen."
 msgstr ""
 
+#. https://doi.org/10.35035/doc-xxxx-xxxx.
 #. type: Title ===
 #: colophon.en.adoc:12
 #, no-wrap
